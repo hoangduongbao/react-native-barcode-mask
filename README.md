@@ -109,6 +109,13 @@ Default: `20`
 
 Edge/Corner's height
 
+#### `edgeMargin`
+
+Value: number | string (`%`)  
+Default: `0`
+
+Edge/Corner's Margin
+
 #### `edgeColor`
 
 Value: string  
